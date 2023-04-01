@@ -1,1 +1,1 @@
-# rtos
+# study rtos making navilos 
